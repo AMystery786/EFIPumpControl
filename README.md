@@ -1,4 +1,4 @@
-# AFSEFIPUMP CONTROL
+# AFS EFI PUMP CONTROL
 A Fuel Pump control device to adjust overpressure for direct injection vehicles working on alternate fuels.
 
 DESCRIPTION*
